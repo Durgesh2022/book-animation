@@ -1,0 +1,23 @@
+.form-container {
+    width: 600px; /* Adjust width as needed */
+    height: 50%;
+    margin: 0 auto; /* Center the form */
+    padding: 20px;
+    
+    border-radius: 8px;
+    background-color: #080119;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    color: white;
+    position: relative;
+  }
+  
+  h1 {
+    margin-top: 1rem;             /* mt-4 */
+  color: #c3c7ca;               /* text-secondary (replace this with your secondary color code if different) */
+  font-size: 15px;              /* text-[17px] */
+               /* max-w-3xl */
+  line-height: 30px; 
+
+  }
+  
+  
