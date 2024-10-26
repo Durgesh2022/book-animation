@@ -23,3 +23,8 @@
 .form {
   padding: 20px; /* Optional: Add padding */
 }
+@media (max-width: 768px) {
+  .form {
+    display: none;
+  }
+}
