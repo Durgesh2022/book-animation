@@ -128,7 +128,7 @@ const Diary = () => {
             <div className="page front contents">
               <div className="intro">
                 <h2>About me</h2>
-                <p>click me </p>
+                <p>(click to open) </p>
               </div>
             </div>
             <div className="page back"><div className="back">Back</div></div>

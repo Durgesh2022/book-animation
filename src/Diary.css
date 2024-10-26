@@ -57,7 +57,7 @@ body {
   .book .side {
     width: 3em;
     height: 40em;
-    background: #0e0229;
+    background: #080118;
     position: absolute;
     left: -3em;
     top: 0;
@@ -115,7 +115,7 @@ body {
     transform: translateZ(0px);
   }
   .book .first .page {
-    background: #0e0229;
+    background: #080118;
   }
   .book .first .page.front:after {
     position: absolute;

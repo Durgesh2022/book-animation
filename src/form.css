@@ -3,7 +3,8 @@
     height: 50%;
     margin: 0 auto; /* Center the form */
     padding: 10px;
-    
+    font-family: "DejaVu Sans Italic", DejaVu Sans, sans-serif;
+font-style: italic;
     border-radius: 8px;
     background-color: #080119;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -17,7 +18,7 @@
   font-size: 17px;              /* text-[17px] */
                /* max-w-3xl */
   line-height: 30px; 
-
+  white-space: pre-wrap; /* Keeps line breaks */
   }
   
   
